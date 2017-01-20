@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/background.png</file>
+        <file>images/bulletEnemy.png</file>
+        <file>images/bulletPlayer.png</file>
+        <file>images/defaut.png</file>
+        <file>images/heart.png</file>
+        <file>images/player.png</file>
+        <file>images/space_new.png</file>
+        <file>images/enemyPurple.png</file>
+        <file>images/enemyRed.png</file>
+        <file>images/enemyYellow.png</file>
+        <file>images/menuBackground.png</file>
+        <file>sound/grandioso.mp3</file>
+        <file>sound/majaise.mp3</file>
+        <file>sound/shoot.wav</file>
+        <file>sound/boum.wav</file>
+        <file>sound/gameover.wav</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package>
+	<DisplayName>SpaceInvaders</DisplayName>
+	<Description>Jeu de tir 2D développé dans le cadre du cours Projet P2 de l'HE-ARC Neuchâtel</Description>
+	<Version>0.1.0-1</Version>
+	<ReleaseDate>2017-01-20</ReleaseDate>
+	<Default>script</Default>
+    <Script>installscript.qs</Script>
+</Package>

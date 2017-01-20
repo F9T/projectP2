@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Levels>
+        <Level no="1" xStart="40" yStart="40" spacingX="45" spacingY="45" speed="1" intervalFire="1500;3000" reloadTime="750" maxSimultFire="4">
+                <RowsEnemy>
+                        <RowEnemy purpleenemy="10"/>
+                        <RowEnemy purpleenemy="10"/>
+                        <RowEnemy purpleenemy="10"/>
+                        <RowEnemy purpleenemy="10"/>
+                        <RowEnemy purpleenemy="10"/>
+                        <RowEnemy purpleenemy="10"/>
+                </RowsEnemy>
+        </Level>
+        <Level no="2" xStart="40" yStart="40" spacingX="45" spacingY="45" speed="1" intervalFire="1500;3000" reloadTime="750" maxSimultFire="4">
+                <RowsEnemy>
+                        <RowEnemy yellowenemy="10"/>
+                        <RowEnemy purpleenemy="10"/>
+                        <RowEnemy purpleenemy="10"/>
+                        <RowEnemy purpleenemy="10"/>
+                        <RowEnemy purpleenemy="10"/>
+                        <RowEnemy purpleenemy="10"/>
+                </RowsEnemy>
+        </Level>
+        <Level no="3" xStart="40" yStart="40" spacingX="45" spacingY="45" speed="1" intervalFire="1000;2000" reloadTime="700" maxSimultFire="3">
+                <RowsEnemy>
+                        <RowEnemy redenemy="10"/>
+                        <RowEnemy yellowenemy="10"/>
+                        <RowEnemy purpleenemy="10"/>
+                        <RowEnemy purpleenemy="10"/>
+                        <RowEnemy purpleenemy="10"/>
+                        <RowEnemy purpleenemy="10"/>
+                </RowsEnemy>
+        </Level>
+        <Level no="4" xStart="40" yStart="40" spacingX="45" spacingY="45" speed="1" intervalFire="1000;1500" reloadTime="700" maxSimultFire="3">
+                <RowsEnemy>
+                        <RowEnemy redenemy="10"/>
+                        <RowEnemy yellowenemy="10"/>
+                        <RowEnemy yellowenemy="10"/>
+                        <RowEnemy purpleenemy="10"/>
+                        <RowEnemy purpleenemy="10"/>
+                        <RowEnemy purpleenemy="10"/>
+                </RowsEnemy>
+        </Level>
+        <Level no="5" xStart="40" yStart="40" spacingX="45" spacingY="45" speed="1" intervalFire="1000;1500" reloadTime="650" maxSimultFire="3">
+                <RowsEnemy>
+                        <RowEnemy redenemy="10"/>
+                        <RowEnemy yellowenemy="10"/>
+                        <RowEnemy yellowenemy="10"/>
+                        <RowEnemy yellowenemy="10"/>
+                        <RowEnemy purpleenemy="10"/>
+                        <RowEnemy purpleenemy="10"/>
+                </RowsEnemy>
+        </Level>
+        <Level no="6" xStart="40" yStart="40" spacingX="45" spacingY="45" speed="1" intervalFire="1000;1500" reloadTime="650" maxSimultFire="3">
+                <RowsEnemy>
+                        <RowEnemy redenemy="10"/>
+                        <RowEnemy redenemy="10"/>
+                        <RowEnemy yellowenemy="10"/>
+                        <RowEnemy yellowenemy="10"/>
+                        <RowEnemy yellowenemy="10"/>
+                        <RowEnemy purpleenemy="10"/>
+                </RowsEnemy>
+        </Level>
+        <Level no="7" xStart="40" yStart="40" spacingX="45" spacingY="45" speed="1" intervalFire="1000;1000" reloadTime="600" maxSimultFire="3">
+                <RowsEnemy>
+                        <RowEnemy redenemy="10"/>
+                        <RowEnemy redenemy="10"/>
+                        <RowEnemy redenemy="10"/>
+                        <RowEnemy yellowenemy="10"/>
+                        <RowEnemy yellowenemy="10"/>
+                        <RowEnemy yellowenemy="10"/>
+                </RowsEnemy>
+        </Level>
+        <Level no="8" xStart="40" yStart="40" spacingX="45" spacingY="45" speed="1" intervalFire="1000;1000" reloadTime="550" maxSimultFire="3">
+                <RowsEnemy>
+                        <RowEnemy redenemy="10"/>
+                        <RowEnemy redenemy="10"/>
+                        <RowEnemy redenemy="10"/>
+                        <RowEnemy redenemy="10"/>
+                        <RowEnemy yellowenemy="10"/>
+                        <RowEnemy yellowenemy="10"/>
+                </RowsEnemy>
+        </Level>
+        <Level no="9" xStart="40" yStart="40" spacingX="45" spacingY="45" speed="1" intervalFire="500;1000" reloadTime="500" maxSimultFire="3">
+                <RowsEnemy>
+                        <RowEnemy redenemy="10"/>
+                        <RowEnemy redenemy="10"/>
+                        <RowEnemy redenemy="10"/>
+                        <RowEnemy redenemy="10"/>
+                        <RowEnemy redenemy="10"/>
+                        <RowEnemy redenemy="10"/>
+                </RowsEnemy>
+        </Level>
+</Levels>

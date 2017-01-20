@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Installer>
+	<Name>Space Invaders</Name>
+	<Version>1.0</Version>
+	<Title>Space Invaders setup</Title>
+	<Publisher>Griesser Gabriel, Gigon Luc, Lovis Thomas</Publisher>
+	<StartMenuDir>SpaceInvaders</StartMenuDir>
+	<AllowSpaceInPath>true</AllowSpaceInPath>
+</Installer>

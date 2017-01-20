@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<xs:element name="Levels">
+	  <xs:complexType>
+		<xs:sequence>
+			<xs:element name="Level">
+				<xsd:attribut name="no" type="xsd:positiveInteger">
+				<xsd:attribut name="xstart" type="xsd:positiveInteger">
+				<xsd:attribut name="ystart" type="xsd:positiveInteger">
+				<xsd:attribut name="spacingx" type="xsd:positiveInteger">
+				<xsd:attribut name="spacingy" type="xsd:positiveInteger">
+				<xsd:attribut name="speed" type="xsd:positiveInteger">
+				<xsd:attribut name="intervalfire" type="xsd:string">
+				<xsd:attribut name="reloadtime" type="xsd:positiveInteger">
+				<xs:complexType name="RowsEnemy">
+					<xs:element name="RowEnemy">
+						<xsd:attribut name="purpleenemy" type="xsd:positiveInteger">
+						<xsd:attribut name="yellowenemy" type="xsd:positiveInteger">
+						<xsd:attribut name="redenemy" type="xsd:positiveInteger">
+					</xs:element>
+				</xs:complexType>
+			</xs:element>
+		</xs:sequence>
+	  </xs:complexType>
+	</xs:element>
+</xs:schema>
