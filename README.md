@@ -1,2 +1,2 @@
 # Projet de semestre  
-Project P2 - HE-Arc
+Project P2 (Qt) - HE-Arc
