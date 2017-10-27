@@ -1,4 +1,2 @@
-# projectP2
+# Projet de semestre  
 Project P2 - HE-Arc
-
-Projet de semestre 
